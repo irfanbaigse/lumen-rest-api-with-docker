@@ -32,3 +32,4 @@ Homestead.json
 *.iml
 out
 gen
+data/*
